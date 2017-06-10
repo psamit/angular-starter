@@ -4,6 +4,9 @@
 logs
 *.log
 
+#yarn lock files
+yarn.lock
+
 # Runtime data
 pids
 *.pid
